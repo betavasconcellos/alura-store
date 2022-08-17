@@ -59,15 +59,14 @@
     .populares__conteudo{
         flex-direction: row;
     }
-    .populares__card:last-child(){
-        margin-right: 0;
-    }
+
     .populares__card{
         grid-template-rows: 173px auto;
         margin-right: 1rem;
         width: calc(50% - 1rem);
     }
 
+    
 }
 
 @media  screen and (min-width: 992px) {
