@@ -18,10 +18,6 @@
     grid-template-columns: 100%;
 }
 
-.populares__card:last-child{
-    margin-right: 0;
-}
-
 .populares__card___imagem{
     grid-area: card-imagem;
     height: 100%;
